@@ -1,4 +1,4 @@
-# JAVA-BEGINNER-202209
+# JAVA-BEGINNER-20220919
 
 ### [📖기술블로그](https://donotthinkjustdo.tistory.com/category/JAVA/%EC%9E%90%EB%B0%94%20%EC%84%A0%ED%96%89%20%EA%B0%95%EC%9D%98)
 
